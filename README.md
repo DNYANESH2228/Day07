@@ -56,16 +56,6 @@ A short weekly quiz was conducted.
 
 More real-world case studies were included.
 
-Week 1 helped me build strong foundations in Linux, networking, web basics, and phishing awareness. I feel more confident compared to Day 1 and motivated to improve further.
 
-Now important advice:
-
-Before submitting:
-
-Modify at least 2–3 answers to match your real experience.
-
-Keep it honest.
-
-Don’t try to sound “perfect” — growth mindset matters more.
 
 If you want, I can also quickly review your final version before you upload it to GitHub.
